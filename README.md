@@ -20,18 +20,5 @@ My plan is to create a well-designed portfolio website, where all of my projects
 * HTML
 * CSS
 * JavaScript
-* Spotify API
-
-##### Not sure about these but, potentially
-* React.js
-* Moment.js
-* Particles.js
-
-### Implementation
-**TODO**: Complete this while you're working on your project. Preferably, you're describing what steps you took for different parts of the project.
-
-### Supplementary Material
-**TODO**: Include any links to materials that might help people learn more about your project.
-
 
 ### Additional Links
